@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hüseyin-murat-gezer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hüseyin-murat-gezer" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hüseyin-murat-gezer-b37717157/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hüseyin-murat-gezer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hmgezer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hmgezer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hmgezer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="hmgezer" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@gezerhm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@gezerhm" height="30" width="40" /></a>
